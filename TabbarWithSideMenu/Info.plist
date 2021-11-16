@@ -38,7 +38,7 @@
 	<key>FacebookDisplayName</key>
 	<string>WheretoWheel</string>
 	<key>LSApplicationCategoryType</key>
-	<string></string>
+	<string>public.app-category.travel</string>
 	<key>LSApplicationQueriesSchemes</key>
 	<array>
 		<string>fbapi</string>
@@ -56,9 +56,11 @@
 	<key>NSCameraUsageDescription</key>
 	<string>You can select photos to attach to reports.</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
-	<string>application required Location</string>
+	<string>Where to Wheel needs your current location to show venues closest to you.</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Where to Wheel needs your current location to show venues closest to you.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string>application required Location</string>
+	<string>Where to Wheel needs your current location to show venues closest to you.</string>
 	<key>NSPhotoLibraryUsageDescription</key>
 	<string>You can select photos to attach to reports.</string>
 	<key>UILaunchStoryboardName</key>
