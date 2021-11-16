@@ -1,0 +1,597 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0eC-Lf-aoG"; */
+"0eC-Lf-aoG.text" = "Label";
+
+/* Class = "UILabel"; text = "Medium grade"; ObjectID = "1DN-0t-zPw"; */
+"1DN-0t-zPw.text" = "Medium grade";
+
+/* Class = "UILabel"; text = "ListView"; ObjectID = "1Mu-2p-cI3"; */
+"1Mu-2p-cI3.text" = "ListView";
+
+/* Class = "UILabel"; text = "Difficult to open"; ObjectID = "1Yc-Kv-nal"; */
+"1Yc-Kv-nal.text" = "Difficult to open";
+
+/* Class = "UILabel"; text = "Opens in"; ObjectID = "1fw-L9-mz5"; */
+"1fw-L9-mz5.text" = "Opens in";
+
+/* Class = "UILabel"; text = "Manual"; ObjectID = "1hA-UV-UxT"; */
+"1hA-UV-UxT.text" = "Manual";
+
+/* Class = "UILabel"; text = "4. Rate accessible seating"; ObjectID = "1hU-3z-U78"; */
+"1hU-3z-U78.text" = "4. Rate accessible seating";
+
+/* Class = "UILabel"; text = "Privacy Policy"; ObjectID = "1xQ-t7-0pl"; */
+"1xQ-t7-0pl.text" = "Privacy Policy";
+
+/* Class = "UIButton"; normalTitle = "Near Me"; ObjectID = "35T-B5-fbh"; */
+"35T-B5-fbh.normalTitle" = "Near Me";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "3F5-rd-SGT"; */
+"3F5-rd-SGT.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "3Ms-hs-kXl"; */
+"3Ms-hs-kXl.text" = "Yes";
+
+/* Class = "UILabel"; text = "Automatic"; ObjectID = "3rU-FJ-YL6"; */
+"3rU-FJ-YL6.text" = "Automatic";
+
+/* Class = "UILabel"; text = "Spacious"; ObjectID = "49H-dT-m9j"; */
+"49H-dT-m9j.text" = "Spacious";
+
+/* Class = "UILabel"; text = "Orange View Controller"; ObjectID = "4AL-gG-LDe"; */
+"4AL-gG-LDe.text" = "Orange View Controller";
+
+/* Class = "UILabel"; text = "5.2 Size of stall?"; ObjectID = "4GE-es-TWl"; */
+"4GE-es-TWl.text" = "5.2 Size of stall?";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "4O9-xK-OxC"; */
+"4O9-xK-OxC.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "  Date"; ObjectID = "4tR-gl-EIe"; */
+"4tR-gl-EIe.placeholder" = "  Date";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "5PW-lB-qqe"; */
+"5PW-lB-qqe.text" = "No";
+
+/* Class = "UITextField"; placeholder = "Subject"; ObjectID = "5Zb-7S-pjr"; */
+"5Zb-7S-pjr.placeholder" = "Subject";
+
+/* Class = "UILabel"; text = "Seating throughout"; ObjectID = "5e5-RG-IPV"; */
+"5e5-RG-IPV.text" = "Seating throughout";
+
+/* Class = "UILabel"; text = "Some Amenities"; ObjectID = "5pI-iR-E8W"; */
+"5pI-iR-E8W.text" = "Some Amenities";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "6Qd-gQ-TkK"; */
+"6Qd-gQ-TkK.text" = "Facebook";
+
+/* Class = "UILabel"; text = "Select the location"; ObjectID = "6Uu-bx-cAG"; */
+"6Uu-bx-cAG.text" = "Select the location";
+
+/* Class = "UILabel"; text = "Where to Wheel"; ObjectID = "6iL-KP-5Lx"; */
+"6iL-KP-5Lx.text" = "Where to Wheel";
+
+/* Class = "UILabel"; text = "Parking Lot"; ObjectID = "6vf-PE-BCL"; */
+"6vf-PE-BCL.text" = "Parking Lot";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "8EW-g8-fSe"; */
+"8EW-g8-fSe.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "MapView"; ObjectID = "9Zj-Ez-kWY"; */
+"9Zj-Ez-kWY.text" = "MapView";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9e0-C6-DGi"; */
+"9e0-C6-DGi.text" = "Label";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "Aba-38-dTJ"; */
+"Aba-38-dTJ.text" = "Welcome to";
+
+/* Class = "UIButton"; normalTitle = "Post"; ObjectID = "AlY-2E-LqD"; */
+"AlY-2E-LqD.normalTitle" = "Post";
+
+/* Class = "UILabel"; text = "Adequate"; ObjectID = "CFX-tb-acc"; */
+"CFX-tb-acc.text" = "Adequate";
+
+/* Class = "UILabel"; text = "FAQ"; ObjectID = "DN5-IG-nWh"; */
+"DN5-IG-nWh.text" = "FAQ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EbK-ZQ-8PJ"; */
+"EbK-ZQ-8PJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "EkV-MG-Ny5"; */
+"EkV-MG-Ny5.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Contact Us"; ObjectID = "FGH-4L-qBJ"; */
+"FGH-4L-qBJ.text" = "Contact Us";
+
+/* Class = "UILabel"; text = "No Doors"; ObjectID = "FZG-tv-f3I"; */
+"FZG-tv-f3I.text" = "No Doors";
+
+/* Class = "UILabel"; text = "Scooter"; ObjectID = "Fo6-NV-nsv"; */
+"Fo6-NV-nsv.text" = "Scooter";
+
+/* Class = "UIButton"; normalTitle = "Book a table"; ObjectID = "GF8-87-Oxw"; */
+"GF8-87-Oxw.normalTitle" = "Book a table";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "HBo-pe-iuu"; */
+"HBo-pe-iuu.text" = "Street";
+
+/* Class = "UIButton"; normalTitle = "Near Me"; ObjectID = "HTb-dH-rKM"; */
+"HTb-dH-rKM.normalTitle" = "Near Me";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "Hys-vU-GEE"; */
+"Hys-vU-GEE.text" = "Back";
+
+/* Class = "UILabel"; text = "MapView"; ObjectID = "I7g-a4-KW7"; */
+"I7g-a4-KW7.text" = "MapView";
+
+/* Class = "UILabel"; text = "7. Rate the elevator"; ObjectID = "IFs-6l-2XA"; */
+"IFs-6l-2XA.text" = "7. Rate the elevator";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "Iem-nT-iov"; */
+"Iem-nT-iov.normalTitle" = "Book Now";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "JDN-AM-cTU"; */
+"JDN-AM-cTU.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "JeH-i8-3tT"; */
+"JeH-i8-3tT.text" = "None";
+
+/* Class = "UILabel"; text = "Too small"; ObjectID = "Ju0-4t-4q6"; */
+"Ju0-4t-4q6.text" = "Too small";
+
+/* Class = "UILabel"; text = "Elevator"; ObjectID = "JyC-Ee-1VN"; */
+"JyC-Ee-1VN.text" = "Elevator";
+
+/* Class = "UITextField"; placeholder = "Where would you like to Wheel?"; ObjectID = "KCw-bh-sFv"; */
+"KCw-bh-sFv.placeholder" = "Where would you like to Wheel?";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "KVw-Qa-jPe"; */
+"KVw-Qa-jPe.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LMo-f7-j59"; */
+"LMo-f7-j59.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LV0-xd-KGY"; */
+"LV0-xd-KGY.text" = "Label";
+
+/* Class = "UILabel"; text = "Where to Wheel"; ObjectID = "MHg-nF-2r2"; */
+"MHg-nF-2r2.text" = "Where to Wheel";
+
+/* Class = "UILabel"; text = "Left of the building"; ObjectID = "Mp8-kJ-UfM"; */
+"Mp8-kJ-UfM.text" = "Left of the building";
+
+/* Class = "UILabel"; text = "Too tight"; ObjectID = "Mtm-EB-XoP"; */
+"Mtm-EB-XoP.text" = "Too tight";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "MzF-yU-l1s"; */
+"MzF-yU-l1s.normalTitle" = "CANCEL";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "ND6-fd-3Xa"; */
+"ND6-fd-3Xa.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Spacious"; ObjectID = "NJ4-5R-i8C"; */
+"NJ4-5R-i8C.text" = "Spacious";
+
+/* Class = "UILabel"; text = "Midway Cafe"; ObjectID = "NPh-Li-Slu"; */
+"NPh-Li-Slu.text" = "Midway Cafe";
+
+/* Class = "UILabel"; text = "Street"; ObjectID = "NYK-SK-tzJ"; */
+"NYK-SK-tzJ.text" = "Street";
+
+/* Class = "UILabel"; text = "1.1 Where is the HC parking located?"; ObjectID = "O1b-RP-eqq"; */
+"O1b-RP-eqq.text" = "1.1 Where is the HC parking located?";
+
+/* Class = "UILabel"; text = "Electirc wheelchair"; ObjectID = "O8l-8N-4XB"; */
+"O8l-8N-4XB.text" = "Electirc wheelchair";
+
+/* Class = "UIButton"; normalTitle = "Push View Controller"; ObjectID = "OWc-pG-l03"; */
+"OWc-pG-l03.normalTitle" = "Push View Controller";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ObB-Ck-PRX"; */
+"ObB-Ck-PRX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Oe7-PI-DE6"; */
+"Oe7-PI-DE6.text" = "Label";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "OkU-rd-7HK"; */
+"OkU-rd-7HK.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Crutches/walker"; ObjectID = "Ozo-qv-A2y"; */
+"Ozo-qv-A2y.text" = "Crutches/walker";
+
+/* Class = "UILabel"; text = "Add Your Review"; ObjectID = "PEY-ht-xMi"; */
+"PEY-ht-xMi.text" = "Add Your Review";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Email"; ObjectID = "Q0X-fM-d3z"; */
+"Q0X-fM-d3z.placeholder" = "Please Enter Your Email";
+
+/* Class = "UILabel"; text = "Terms & Condition"; ObjectID = "QdF-ja-Bsp"; */
+"QdF-ja-Bsp.text" = "Terms & Condition";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "S7E-dQ-Fzc"; */
+"S7E-dQ-Fzc.normalTitle" = "Skip";
+
+/* Class = "UILabel"; text = "2.2 Type of HC entrance?"; ObjectID = "S8d-Es-NvX"; */
+"S8d-Es-NvX.text" = "2.2 Type of HC entrance?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SKR-Ql-vex"; */
+"SKR-Ql-vex.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Where to Wheel"; ObjectID = "SRz-aC-x1v"; */
+"SRz-aC-x1v.text" = "Where to Wheel";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "STg-1g-d6b"; */
+"STg-1g-d6b.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "SjM-eb-ew0"; */
+"SjM-eb-ew0.text" = "Front";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "T7o-f7-X3z"; */
+"T7o-f7-X3z.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "TjK-bc-uvW"; */
+"TjK-bc-uvW.text" = "Please wait...";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your Password"; ObjectID = "UWB-pp-Aoq"; */
+"UWB-pp-Aoq.placeholder" = "Please Enter Your Password";
+
+/* Class = "UILabel"; text = "5. Rate accessible bathroom"; ObjectID = "Uve-hc-bPc"; */
+"Uve-hc-bPc.text" = "5. Rate accessible bathroom";
+
+/* Class = "UILabel"; text = "Able body"; ObjectID = "VM7-Pb-W4p"; */
+"VM7-Pb-W4p.text" = "Able body";
+
+/* Class = "UILabel"; text = "ListView"; ObjectID = "Ve3-G7-c6w"; */
+"Ve3-G7-c6w.text" = "ListView";
+
+/* Class = "UILabel"; text = "Manual wheelchair"; ObjectID = "VfF-QR-mH6"; */
+"VfF-QR-mH6.text" = "Manual wheelchair";
+
+/* Class = "UILabel"; text = "4.1 Where is the accessible seating located?"; ObjectID = "VvC-VY-Kjx"; */
+"VvC-VY-Kjx.text" = "4.1 Where is the accessible seating located?";
+
+/* Class = "UILabel"; text = "Book a Restaurant"; ObjectID = "WCX-eg-xkh"; */
+"WCX-eg-xkh.text" = "Book a Restaurant";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "WfC-6h-SGs"; */
+"WfC-6h-SGs.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "Too Narrow"; ObjectID = "WgS-ja-FLc"; */
+"WgS-ja-FLc.text" = "Too Narrow";
+
+/* Class = "UILabel"; text = "Adequate"; ObjectID = "X0h-8S-IV9"; */
+"X0h-8S-IV9.text" = "Adequate";
+
+/* Class = "UILabel"; text = "Login with"; ObjectID = "X4T-tm-AHc"; */
+"X4T-tm-AHc.text" = "Login with";
+
+/* Class = "UILabel"; text = "Ramp"; ObjectID = "XEp-K6-4Ij"; */
+"XEp-K6-4Ij.text" = "Ramp";
+
+/* Class = "UILabel"; text = "This is a free resource! My name is David Wieselmann. I started this website and now IOS and\nAndroid Apps after I myself suffered a SCI in 2011 Mt. Biking becoming paralyzed from the chest\ndown. I realized that there are few options to find this type of information.\nWhere to Wheel is a User Community dedicated to helping others who are Mobility Challenged to\nFind and also Rate Accessible Places around the country and beyond.\nOur Mission is to allow users to Empower themselves and Empower others by reviewing and\nalso adding to our listings! With the ultimate goal of individuals going out. By themselves with\nConfidence!"; ObjectID = "XFi-8M-tp4"; */
+"XFi-8M-tp4.text" = "This is a free resource! My name is David Wieselmann. I started this website and now IOS and\nAndroid Apps after I myself suffered a SCI in 2011 Mt. Biking becoming paralyzed from the chest\ndown. I realized that there are few options to find this type of information.\nWhere to Wheel is a User Community dedicated to helping others who are Mobility Challenged to\nFind and also Rate Accessible Places around the country and beyond.\nOur Mission is to allow users to Empower themselves and Empower others by reviewing and\nalso adding to our listings! With the ultimate goal of individuals going out. By themselves with\nConfidence!";
+
+/* Class = "UITextView"; text = "Agreement between User and www.wheretowheel.us\nWelcome to www.wheretowheel.us. The www.wheretowheel.us website (the &quot;Site&quot;) is comprised\nof various web pages operated by Where to Wheel, Inc. (&quot;Where to\nWheel&quot;). www.wheretowheel.us is offered to you conditioned on your acceptance without\nmodification of the terms, conditions, and notices contained herein (the &quot;Terms&quot;). Your use\nof www.wheretowheel.usconstitutes your agreement to all such Terms. Please read these terms\ncarefully, and keep a copy of them for your reference.\n\nwww.wheretowheel.us is a handicapped accessible venue listings and reviews Site.\n\nTo provide it&#39;s users access to handicapped accessible venue listings.\n\nPrivacy\nYour use of www.wheretowheel.us is subject to Where to Wheel&#39;s Privacy Policy. Please review\nour Privacy Policy, which also governs the Site and informs users of our data collection\npractices.\n\nElectronic Communications\nVisiting www.wheretowheel.us or sending emails to Where to Wheel constitutes electronic\ncommunications. You consent to receive electronic communications and you agree that all\nagreements, notices, disclosures and other communications that we provide to you electronically,\nvia email and on the Site, satisfy any legal requirement that such communications be in writing.\n\nYour Account\nIf you use this site, you are responsible for maintaining the confidentiality of your account and\npassword and for restricting access to your computer, and you agree to accept responsibility for\nall activities that occur under your account or password. You may not assign or otherwise\ntransfer your account to any other person or entity. You acknowledge that Where to Wheel is not\nresponsible for third party access to your account that results from theft or misappropriation of\nyour account. Where to Wheel and its associates reserve the right to refuse or cancel service,\nterminate accounts, or remove or edit content in our sole discretion.\n\nChildren Under Thirteen\nWhere to Wheel does not knowingly collect, either online or offline, personal information from\npersons under the age of thirteen. If you are under 18, you may use www.wheretowheel.us only\nwith permission of a parent or guardian.\n\nLinks to Third Party Sites/Third Party Services\nwww.wheretowheel.us may contain links to other websites (&quot;Linked Sites&quot;). The Linked Sites are\nnot under the control of Where to Wheel and Where to Wheel is not responsible for the contents\nof any Linked Site, including without limitation any link contained in a Linked Site, or any changes\nor updates to a Linked Site. Where to Wheel is providing these links to you only as a\nconvenience, and the inclusion of any link does not imply endorsement by Where to Wheel of the\nsite or any association with its operators.\n\nCertain services made available via www.wheretowheel.us are delivered by third party sites and\norganizations. By using any product, service or functionality originating from\nthe www.wheretowheel.us domain, you hereby acknowledge and consent that Where to Wheel\nmay share such information and data with any third party with whom Where to Wheel has a\n\ncontractual relationship to provide the requested product, service or functionality on behalf\nof www.wheretowheel.us users and customers.\n\nNo Unlawful or Prohibited Use/Intellectual Property\nYou are granted a non-exclusive, non-transferable, revocable license to access and\nuse www.wheretowheel.us strictly in accordance with these terms of use. As a condition of your\nuse of the Site, you warrant to Where to Wheel that you will not use the Site for any purpose that\nis unlawful or prohibited by these Terms. You may not use the Site in any manner which could\ndamage, disable, overburden, or impair the Site or interfere with any other party&#39;s use and\nenjoyment of the Site. You may not obtain or attempt to obtain any materials or information\nthrough any means not intentionally made available or provided for through the Site.\n\nAll content included as part of the Service, such as text, graphics, logos, images, as well as the\ncompilation thereof, and any software used on the Site, is the property of Where to Wheel or its\nsuppliers and protected by copyright and other laws that protect intellectual property and\nproprietary rights. You agree to observe and abide by all copyright and other proprietary notices,\nlegends or other restrictions contained in any such content and will not make any changes\nthereto.\n\nYou will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create\nderivative works, or in any way exploit any of the content, in whole or in part, found on the Site.\nWhere to Wheel content is not for resale. Your use of the Site does not entitle you to make any\nunauthorized use of any protected content, and in particular you will not delete or alter any\nproprietary rights or attribution notices in any content. You will use protected content solely for\nyour personal use, and will make no other use of the content without the express written\npermission of Where to Wheel and the copyright owner. You agree that you do not acquire any\nownership rights in any protected content. We do not grant you any licenses, express or implied,\nto the intellectual property of Where to Wheel or our licensors except as expressly authorized by\nthese Terms.\n\nThird Party Accounts\nYou will be able to connect your Where to Wheel account to third party accounts. By connecting\nyour Where to Wheel account to your third party account, you acknowledge and agree that you\nare consenting to the continuous release of information about you to others (in accordance with\nyour privacy settings on those third party sites). If you do not want information about you to be\nshared in this manner, do not use this feature.\n\nInternational Users\nThe Service is controlled, operated and administered by Where to Wheel from our offices within\nthe USA. If you access the Service from a location outside the USA, you are responsible for\ncompliance with all local laws. You agree that you will not use the Where to Wheel Content\naccessed through www.wheretowheel.us in any country or in any manner prohibited by any\napplicable laws, restrictions or regulations.\n\nIndemnification\nYou agree to indemnify, defend and hold harmless Where to Wheel, its officers, directors,\nemployees, agents and third parties, for any losses, costs, liabilities and expenses (including\nreasonable attorney&#39;s fees) relating to or arising out of your use of or inability to use the Site or\nservices, any user postings made by you, your violation of any terms of this Agreement or your\nviolation of any rights of a third party, or your violation of any applicable laws, rules or\n\nregulations. Where to Wheel reserves the right, at its own cost, to assume the exclusive defense\nand control of any matter otherwise subject to indemnification by you, in which event you will fully\ncooperate with Where to Wheel in asserting any available defenses.\n\nArbitration\nIn the event the parties are not able to resolve any dispute between them arising out of or\nconcerning these Terms and Conditions, or any provisions hereof, whether in contract, tort, or\notherwise at law or in equity for damages or any other relief, then such dispute shall be resolved\nonly by final and binding arbitration pursuant to the Federal Arbitration Act, conducted by a single\nneutral arbitrator and administered by the American Arbitration Association, or a similar\narbitration service selected by the parties, in a location mutually agreed upon by the parties. The\narbitrator&#39;s award shall be final, and judgment may be entered upon it in any court having\njurisdiction. In the event that any legal or equitable action, proceeding or arbitration arises out of\nor concerns these Terms and Conditions, the prevailing party shall be entitled to recover its costs\nand reasonable attorney&#39;s fees. The parties agree to arbitrate all disputes and claims in regards\nto these Terms and Conditions or any disputes arising as a result of these Terms and Conditions,\nwhether directly or indirectly, including Tort claims that are a result of these Terms and\nConditions. The parties agree that the Federal Arbitration Act governs the interpretation and\nenforcement of this provision. The entire dispute, including the scope and enforceability of this\narbitration provision shall be determined by the Arbitrator. This arbitration provision shall survive\nthe termination of these Terms and Conditions.\n\nClass Action Waiver\nAny arbitration under these Terms and Conditions will take place on an individual basis; class\narbitrations and class/representative/collective actions are not permitted. THE PARTIES AGREE\nTHAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN EACH&#39;S INDIVIDUAL\nCAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS,\nCOLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A\nPRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER. Further, unless both you\nand Where to Wheel agree otherwise, the arbitrator may not consolidate more than one person&#39;s\nclaims, and may not otherwise preside over any form of a representative or class proceeding.\n\nLiability Disclaimer\nTHE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR\nAVAILABLE THROUGH THE SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL\nERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN.\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR\nCHANGES IN THE SITE AT ANY TIME.\n\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT\nTHE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE\nINFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS\nCONTAINED ON THE SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED\nBY APPLICABLE LAW, ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES\nAND RELATED GRAPHICS ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OR CONDITION\nOF ANY KIND. WHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS HEREBY DISCLAIM ALL\nWARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,\nPRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED\nWARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR\nPURPOSE, TITLE AND NON-INFRINGEMENT.\n\n\nTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT,\nINDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES OR ANY\nDAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF\nUSE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE\nOR PERFORMANCE OF THE SITE, WITH THE DELAY OR INABILITY TO USE THE SITE OR\nRELATED SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR FOR\nANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS\nOBTAINED THROUGH THE SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE\nSITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR\nOTHERWISE, EVEN IF WHERE TO WHEEL, INC. OR ANY OF ITS SUPPLIERS HAS BEEN\nADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME STATES/JURISDICTIONS\nDO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL\nOR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU\nARE DISSATISFIED WITH ANY PORTION OF THE SITE, OR WITH ANY OF THESE TERMS\nOF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE.\n\nTermination/Access Restriction\nWhere to Wheel reserves the right, in its sole discretion, to terminate your access to the Site and\nthe related services or any portion thereof at any time, without notice. To the maximum extent\npermitted by law, this agreement is governed by the laws of the Commonwealth of\nMassachusetts and you hereby consent to the exclusive jurisdiction and venue of courts in\nMassachusetts in all disputes arising out of or relating to the use of the Site. Use of the Site is\nunauthorized in any jurisdiction that does not give effect to all provisions of these Terms,\nincluding, without limitation, this section.\n\nYou agree that no joint venture, partnership, employment, or agency relationship exists between\nyou and Where to Wheel as a result of this agreement or use of the Site. Where to Wheel&#39;s\nperformance of this agreement is subject to existing laws and legal process, and nothing\ncontained in this agreement is in derogation of Where to Wheel&#39;s right to comply with\ngovernmental, court and law enforcement requests or requirements relating to your use of the\nSite or information provided to or gathered by Where to Wheel with respect to such use. If any\npart of this agreement is determined to be invalid or unenforceable pursuant to applicable law\nincluding, but not limited to, the warranty disclaimers and liability limitations set forth above, then\nthe invalid or unenforceable provision will be deemed superseded by a valid, enforceable\nprovision that most closely matches the intent of the original provision and the remainder of the\nagreement shall continue in effect.\n\nUnless otherwise specified herein, this agreement constitutes the entire agreement between the\nuser and Where to Wheel with respect to the Site and it supersedes all prior or contemporaneous\ncommunications and proposals, whether electronic, oral or written, between the user and Where\nto Wheel with respect to the Site. A printed version of this agreement and of any notice given in\nelectronic form shall be admissible in judicial or administrative proceedings based upon or\nrelating to this agreement to the same extent and subject to the same conditions as other\nbusiness documents and records originally generated and maintained in printed form. It is the\nexpress wish to the parties that this agreement and all related documents be written in English.\n\nChanges to Terms\nWhere to Wheel reserves the right, in its sole discretion, to change the Terms under\n\nwhich www.wheretowheel.us is offered. The most current version of the Terms will supersede all\nprevious versions. Where to Wheel encourages you to periodically review the Terms to stay\ninformed of our updates.\n\nContact Us\nWhere to Wheel welcomes your questions or comments regarding the Terms:\n\nWhere to Wheel, Inc.\n193 Grove st. Suite 104\nBraintree, Massachusetts 02184\n\n\nEmail Address:\ninfo@wheretowheel.com\n\nTelephone number:\n617-682-9751\n\nEffective as of October 28, 2017"; ObjectID = "XGU-uy-4uy"; */
+"XGU-uy-4uy.text" = "Agreement between User and www.wheretowheel.us\nWelcome to www.wheretowheel.us. The www.wheretowheel.us website (the &quot;Site&quot;) is comprised\nof various web pages operated by Where to Wheel, Inc. (&quot;Where to\nWheel&quot;). www.wheretowheel.us is offered to you conditioned on your acceptance without\nmodification of the terms, conditions, and notices contained herein (the &quot;Terms&quot;). Your use\nof www.wheretowheel.usconstitutes your agreement to all such Terms. Please read these terms\ncarefully, and keep a copy of them for your reference.\n\nwww.wheretowheel.us is a handicapped accessible venue listings and reviews Site.\n\nTo provide it&#39;s users access to handicapped accessible venue listings.\n\nPrivacy\nYour use of www.wheretowheel.us is subject to Where to Wheel&#39;s Privacy Policy. Please review\nour Privacy Policy, which also governs the Site and informs users of our data collection\npractices.\n\nElectronic Communications\nVisiting www.wheretowheel.us or sending emails to Where to Wheel constitutes electronic\ncommunications. You consent to receive electronic communications and you agree that all\nagreements, notices, disclosures and other communications that we provide to you electronically,\nvia email and on the Site, satisfy any legal requirement that such communications be in writing.\n\nYour Account\nIf you use this site, you are responsible for maintaining the confidentiality of your account and\npassword and for restricting access to your computer, and you agree to accept responsibility for\nall activities that occur under your account or password. You may not assign or otherwise\ntransfer your account to any other person or entity. You acknowledge that Where to Wheel is not\nresponsible for third party access to your account that results from theft or misappropriation of\nyour account. Where to Wheel and its associates reserve the right to refuse or cancel service,\nterminate accounts, or remove or edit content in our sole discretion.\n\nChildren Under Thirteen\nWhere to Wheel does not knowingly collect, either online or offline, personal information from\npersons under the age of thirteen. If you are under 18, you may use www.wheretowheel.us only\nwith permission of a parent or guardian.\n\nLinks to Third Party Sites/Third Party Services\nwww.wheretowheel.us may contain links to other websites (&quot;Linked Sites&quot;). The Linked Sites are\nnot under the control of Where to Wheel and Where to Wheel is not responsible for the contents\nof any Linked Site, including without limitation any link contained in a Linked Site, or any changes\nor updates to a Linked Site. Where to Wheel is providing these links to you only as a\nconvenience, and the inclusion of any link does not imply endorsement by Where to Wheel of the\nsite or any association with its operators.\n\nCertain services made available via www.wheretowheel.us are delivered by third party sites and\norganizations. By using any product, service or functionality originating from\nthe www.wheretowheel.us domain, you hereby acknowledge and consent that Where to Wheel\nmay share such information and data with any third party with whom Where to Wheel has a\n\ncontractual relationship to provide the requested product, service or functionality on behalf\nof www.wheretowheel.us users and customers.\n\nNo Unlawful or Prohibited Use/Intellectual Property\nYou are granted a non-exclusive, non-transferable, revocable license to access and\nuse www.wheretowheel.us strictly in accordance with these terms of use. As a condition of your\nuse of the Site, you warrant to Where to Wheel that you will not use the Site for any purpose that\nis unlawful or prohibited by these Terms. You may not use the Site in any manner which could\ndamage, disable, overburden, or impair the Site or interfere with any other party&#39;s use and\nenjoyment of the Site. You may not obtain or attempt to obtain any materials or information\nthrough any means not intentionally made available or provided for through the Site.\n\nAll content included as part of the Service, such as text, graphics, logos, images, as well as the\ncompilation thereof, and any software used on the Site, is the property of Where to Wheel or its\nsuppliers and protected by copyright and other laws that protect intellectual property and\nproprietary rights. You agree to observe and abide by all copyright and other proprietary notices,\nlegends or other restrictions contained in any such content and will not make any changes\nthereto.\n\nYou will not modify, publish, transmit, reverse engineer, participate in the transfer or sale, create\nderivative works, or in any way exploit any of the content, in whole or in part, found on the Site.\nWhere to Wheel content is not for resale. Your use of the Site does not entitle you to make any\nunauthorized use of any protected content, and in particular you will not delete or alter any\nproprietary rights or attribution notices in any content. You will use protected content solely for\nyour personal use, and will make no other use of the content without the express written\npermission of Where to Wheel and the copyright owner. You agree that you do not acquire any\nownership rights in any protected content. We do not grant you any licenses, express or implied,\nto the intellectual property of Where to Wheel or our licensors except as expressly authorized by\nthese Terms.\n\nThird Party Accounts\nYou will be able to connect your Where to Wheel account to third party accounts. By connecting\nyour Where to Wheel account to your third party account, you acknowledge and agree that you\nare consenting to the continuous release of information about you to others (in accordance with\nyour privacy settings on those third party sites). If you do not want information about you to be\nshared in this manner, do not use this feature.\n\nInternational Users\nThe Service is controlled, operated and administered by Where to Wheel from our offices within\nthe USA. If you access the Service from a location outside the USA, you are responsible for\ncompliance with all local laws. You agree that you will not use the Where to Wheel Content\naccessed through www.wheretowheel.us in any country or in any manner prohibited by any\napplicable laws, restrictions or regulations.\n\nIndemnification\nYou agree to indemnify, defend and hold harmless Where to Wheel, its officers, directors,\nemployees, agents and third parties, for any losses, costs, liabilities and expenses (including\nreasonable attorney&#39;s fees) relating to or arising out of your use of or inability to use the Site or\nservices, any user postings made by you, your violation of any terms of this Agreement or your\nviolation of any rights of a third party, or your violation of any applicable laws, rules or\n\nregulations. Where to Wheel reserves the right, at its own cost, to assume the exclusive defense\nand control of any matter otherwise subject to indemnification by you, in which event you will fully\ncooperate with Where to Wheel in asserting any available defenses.\n\nArbitration\nIn the event the parties are not able to resolve any dispute between them arising out of or\nconcerning these Terms and Conditions, or any provisions hereof, whether in contract, tort, or\notherwise at law or in equity for damages or any other relief, then such dispute shall be resolved\nonly by final and binding arbitration pursuant to the Federal Arbitration Act, conducted by a single\nneutral arbitrator and administered by the American Arbitration Association, or a similar\narbitration service selected by the parties, in a location mutually agreed upon by the parties. The\narbitrator&#39;s award shall be final, and judgment may be entered upon it in any court having\njurisdiction. In the event that any legal or equitable action, proceeding or arbitration arises out of\nor concerns these Terms and Conditions, the prevailing party shall be entitled to recover its costs\nand reasonable attorney&#39;s fees. The parties agree to arbitrate all disputes and claims in regards\nto these Terms and Conditions or any disputes arising as a result of these Terms and Conditions,\nwhether directly or indirectly, including Tort claims that are a result of these Terms and\nConditions. The parties agree that the Federal Arbitration Act governs the interpretation and\nenforcement of this provision. The entire dispute, including the scope and enforceability of this\narbitration provision shall be determined by the Arbitrator. This arbitration provision shall survive\nthe termination of these Terms and Conditions.\n\nClass Action Waiver\nAny arbitration under these Terms and Conditions will take place on an individual basis; class\narbitrations and class/representative/collective actions are not permitted. THE PARTIES AGREE\nTHAT A PARTY MAY BRING CLAIMS AGAINST THE OTHER ONLY IN EACH&#39;S INDIVIDUAL\nCAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PUTATIVE CLASS,\nCOLLECTIVE AND/ OR REPRESENTATIVE PROCEEDING, SUCH AS IN THE FORM OF A\nPRIVATE ATTORNEY GENERAL ACTION AGAINST THE OTHER. Further, unless both you\nand Where to Wheel agree otherwise, the arbitrator may not consolidate more than one person&#39;s\nclaims, and may not otherwise preside over any form of a representative or class proceeding.\n\nLiability Disclaimer\nTHE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR\nAVAILABLE THROUGH THE SITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL\nERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN.\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR\nCHANGES IN THE SITE AT ANY TIME.\n\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT\nTHE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE\nINFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS\nCONTAINED ON THE SITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED\nBY APPLICABLE LAW, ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES\nAND RELATED GRAPHICS ARE PROVIDED &quot;AS IS&quot; WITHOUT WARRANTY OR CONDITION\nOF ANY KIND. WHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS HEREBY DISCLAIM ALL\nWARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE,\nPRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED\nWARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR\nPURPOSE, TITLE AND NON-INFRINGEMENT.\n\n\nTO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL\nWHERE TO WHEEL, INC. AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT,\nINDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES OR ANY\nDAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF\nUSE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE\nOR PERFORMANCE OF THE SITE, WITH THE DELAY OR INABILITY TO USE THE SITE OR\nRELATED SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR FOR\nANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS\nOBTAINED THROUGH THE SITE, OR OTHERWISE ARISING OUT OF THE USE OF THE\nSITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR\nOTHERWISE, EVEN IF WHERE TO WHEEL, INC. OR ANY OF ITS SUPPLIERS HAS BEEN\nADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME STATES/JURISDICTIONS\nDO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL\nOR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU\nARE DISSATISFIED WITH ANY PORTION OF THE SITE, OR WITH ANY OF THESE TERMS\nOF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE SITE.\n\nTermination/Access Restriction\nWhere to Wheel reserves the right, in its sole discretion, to terminate your access to the Site and\nthe related services or any portion thereof at any time, without notice. To the maximum extent\npermitted by law, this agreement is governed by the laws of the Commonwealth of\nMassachusetts and you hereby consent to the exclusive jurisdiction and venue of courts in\nMassachusetts in all disputes arising out of or relating to the use of the Site. Use of the Site is\nunauthorized in any jurisdiction that does not give effect to all provisions of these Terms,\nincluding, without limitation, this section.\n\nYou agree that no joint venture, partnership, employment, or agency relationship exists between\nyou and Where to Wheel as a result of this agreement or use of the Site. Where to Wheel&#39;s\nperformance of this agreement is subject to existing laws and legal process, and nothing\ncontained in this agreement is in derogation of Where to Wheel&#39;s right to comply with\ngovernmental, court and law enforcement requests or requirements relating to your use of the\nSite or information provided to or gathered by Where to Wheel with respect to such use. If any\npart of this agreement is determined to be invalid or unenforceable pursuant to applicable law\nincluding, but not limited to, the warranty disclaimers and liability limitations set forth above, then\nthe invalid or unenforceable provision will be deemed superseded by a valid, enforceable\nprovision that most closely matches the intent of the original provision and the remainder of the\nagreement shall continue in effect.\n\nUnless otherwise specified herein, this agreement constitutes the entire agreement between the\nuser and Where to Wheel with respect to the Site and it supersedes all prior or contemporaneous\ncommunications and proposals, whether electronic, oral or written, between the user and Where\nto Wheel with respect to the Site. A printed version of this agreement and of any notice given in\nelectronic form shall be admissible in judicial or administrative proceedings based upon or\nrelating to this agreement to the same extent and subject to the same conditions as other\nbusiness documents and records originally generated and maintained in printed form. It is the\nexpress wish to the parties that this agreement and all related documents be written in English.\n\nChanges to Terms\nWhere to Wheel reserves the right, in its sole discretion, to change the Terms under\n\nwhich www.wheretowheel.us is offered. The most current version of the Terms will supersede all\nprevious versions. Where to Wheel encourages you to periodically review the Terms to stay\ninformed of our updates.\n\nContact Us\nWhere to Wheel welcomes your questions or comments regarding the Terms:\n\nWhere to Wheel, Inc.\n193 Grove st. Suite 104\nBraintree, Massachusetts 02184\n\n\nEmail Address:\ninfo@wheretowheel.com\n\nTelephone number:\n617-682-9751\n\nEffective as of October 28, 2017";
+
+/* Class = "UILabel"; text = "5.1 Opening function of the bathroom door?"; ObjectID = "XUt-53-0CC"; */
+"XUt-53-0CC.text" = "5.1 Opening function of the bathroom door?";
+
+/* Class = "UILabel"; text = "Didn't use"; ObjectID = "Yau-SX-SHg"; */
+"Yau-SX-SHg.text" = "Didn't use";
+
+/* Class = "UILabel"; text = "Add Listing"; ObjectID = "Yb0-0e-VpN"; */
+"Yb0-0e-VpN.text" = "Add Listing";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "Yhq-mO-PFB"; */
+"Yhq-mO-PFB.text" = "Back";
+
+/* Class = "UILabel"; text = "5.4 Is there a changing table?"; ObjectID = "Ykd-j2-IYs"; */
+"Ykd-j2-IYs.text" = "5.4 Is there a changing table?";
+
+/* Class = "UIButton"; normalTitle = "Add Listing"; ObjectID = "Yko-M9-B3n"; */
+"Yko-M9-B3n.normalTitle" = "Add Listing";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "ZNN-Td-cIV"; */
+"ZNN-Td-cIV.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZfT-QV-yyD"; */
+"ZfT-QV-yyD.text" = "Label";
+
+/* Class = "UILabel"; text = "Portable Ramp"; ObjectID = "ZnI-Gs-jgT"; */
+"ZnI-Gs-jgT.text" = "Portable Ramp";
+
+/* Class = "UITextField"; placeholder = "  Number of Guest"; ObjectID = "ZtG-MI-hjJ"; */
+"ZtG-MI-hjJ.placeholder" = "  Number of Guest";
+
+/* Class = "UITextField"; placeholder = "  Time"; ObjectID = "ZxX-rY-VDz"; */
+"ZxX-rY-VDz.placeholder" = "  Time";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "a3q-0G-Vur"; */
+"a3q-0G-Vur.text" = "None";
+
+/* Class = "UIButton"; normalTitle = "I forgot my passsword?"; ObjectID = "aJE-oA-e1f"; */
+"aJE-oA-e1f.normalTitle" = "I forgot my passsword?";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "aSE-wP-9L0"; */
+"aSE-wP-9L0.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "aTa-oE-Q5w"; */
+"aTa-oE-Q5w.text" = "Label";
+
+/* Class = "UILabel"; text = "Where to Wheel"; ObjectID = "aei-TJ-HBn"; */
+"aei-TJ-HBn.text" = "Where to Wheel";
+
+/* Class = "UILabel"; text = "2.4 Width of the entrance?"; ObjectID = "awL-9P-KFI"; */
+"awL-9P-KFI.text" = "2.4 Width of the entrance?";
+
+/* Class = "UILabel"; text = "Any additional comments/feedback for the venue?"; ObjectID = "b8f-AT-gi2"; */
+"b8f-AT-gi2.text" = "Any additional comments/feedback for the venue?";
+
+/* Class = "UITextField"; placeholder = "Enter New Password"; ObjectID = "bUx-MZ-cfq"; */
+"bUx-MZ-cfq.placeholder" = "Enter New Password";
+
+/* Class = "UILabel"; text = "Adequate"; ObjectID = "bWa-Q6-vGi"; */
+"bWa-Q6-vGi.text" = "Adequate";
+
+/* Class = "UIButton"; normalTitle = "Create New Account"; ObjectID = "bX4-u4-rjl"; */
+"bX4-u4-rjl.normalTitle" = "Create New Account";
+
+/* Class = "UILabel"; text = "2.2 Type of entrance door?"; ObjectID = "baz-JY-n9d"; */
+"baz-JY-n9d.text" = "2.2 Type of entrance door?";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "bbB-vm-nbo"; */
+"bbB-vm-nbo.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bgp-og-PA6"; */
+"bgp-og-PA6.text" = "Label";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "bpf-qs-1VZ"; */
+"bpf-qs-1VZ.text" = "Please wait...";
+
+/* Class = "UITextField"; placeholder = "Please Enter Your email"; ObjectID = "cT0-tH-mbE"; */
+"cT0-tH-mbE.placeholder" = "Please Enter Your email";
+
+/* Class = "UILabel"; text = "Googleplus"; ObjectID = "ca9-DT-Z1e"; */
+"ca9-DT-Z1e.text" = "Googleplus";
+
+/* Class = "UILabel"; text = "Easy grade"; ObjectID = "cwU-0F-6p1"; */
+"cwU-0F-6p1.text" = "Easy grade";
+
+/* Class = "UIButton"; normalTitle = "Add Location"; ObjectID = "cze-dG-vhJ"; */
+"cze-dG-vhJ.normalTitle" = "Add Location";
+
+/* Class = "UILabel"; text = "Street Level"; ObjectID = "d2Q-Lu-0Mb"; */
+"d2Q-Lu-0Mb.text" = "Street Level";
+
+/* Class = "UIButton"; normalTitle = "Add Photos"; ObjectID = "d69-uX-sDl"; */
+"d69-uX-sDl.normalTitle" = "Add Photos";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "dbV-cu-dqa"; */
+"dbV-cu-dqa.normalTitle" = "CANCEL";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "dcA-2W-jkW"; */
+"dcA-2W-jkW.text" = "Please wait...";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "dtU-b8-MK2"; */
+"dtU-b8-MK2.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "eGV-pm-ADH"; */
+"eGV-pm-ADH.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "eIZ-z7-P3l"; */
+"eIZ-z7-P3l.text" = "About Us";
+
+/* Class = "UILabel"; text = "2.1 Where is the HC entrance located? Must be 32 inches wide and step free."; ObjectID = "eQo-Ot-2N1"; */
+"eQo-Ot-2N1.text" = "2.1 Where is the HC entrance located? Must be 32 inches wide and step free.";
+
+/* Class = "UILabel"; text = "5.2 Stall ease of opening?"; ObjectID = "eTg-iJ-bwv"; */
+"eTg-iJ-bwv.text" = "5.2 Stall ease of opening?";
+
+/* Class = "UITextView"; text = "Protecting your private information is our priority. This Statement of Privacy applies\nto www.wheretowheel.us and Where To Wheel, Inc. and governs data collection and usage. For\nthe purposes of this Privacy Policy, unless otherwise noted, all references to Where To Wheel,\nInc. include www.wheretowheel.us and Where to Wheel. The Where to Wheel website is a news\nand information site. By using the Where to Wheel website, you consent to the data practices\ndescribed in this statement.\n\nCollection of your Personal Information\nIn order to better provide you with products and services offered on our Site, Where to Wheel\nmay collect personally identifiable information, such as your:\n\n - First and Last Name\n - E-mail Address\n - Phone Number\n\nWhere to Wheel may also collect anonymous demographic information, which is not unique to\nyou, such as your:\n\n - Gender\n - Mobility access\n\nWe do not collect any personal information about you unless you voluntarily provide it to us.\nHowever, you may be required to provide certain personal information to us when you elect to\nuse certain products or services available on the Site. These may include: (a) registering for an\naccount on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our\npartners; (c) signing up for special offers from selected third parties; (d) sending us an email\nmessage; (e) submitting your credit card or other payment information when ordering an\npurchasing products and services on our Site. To wit, we will use your information for, but not\nlimited to, communicating with you in relation to services and/or products you have requested\nfrom us. We also may gather additional personal or non-personal information in the future.\n\nUse of your Personal Information\nWhere to Wheel collects and uses your personal information to operate its website(s) and deliver\nthe services you have requested.\n\nWhere to Wheel may also use your personally identifiable information to inform you of other\nproducts or services available from Where to Wheel and its affiliates.\n\nSharing Information with Third Parties\nWhere to Wheel does not sell, rent or lease its customer lists to third parties.\n\nWhere to Wheel may, from time to time, contact you on behalf of external business partners\nabout a particular offering that may be of interest to you. In those cases, your unique personally\nidentifiable information (e-mail, name, address, telephone number) is transferred to the third\nparty. Where to Wheel may share data with trusted partners to help perform statistical analysis,\nsend you email or postal mail, provide customer support, or arrange for deliveries. All such third\nparties are prohibited from using your personal information except to provide these services to\nWhere to Wheel, and they are required to maintain the confidentiality of your information.\n\nWhere to Wheel may disclose your personal information, without notice, if required to do so by\nlaw or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law\nor comply with legal process served on Where to Wheel or the site; (b) protect and defend the\nrights or property of Where to Wheel; and/or (c) act under exigent circumstances to protect the\npersonal safety of users of Where to Wheel, or the public.\n\nTracking User Behavior\nWhere to Wheel may keep track of the websites and pages our users visit within Where to\n\nWheel, in order to determine what Where to Wheel services are the most popular. This data is\nused to deliver customized content and advertising within Where to Wheel to customers whose\nbehavior indicates that they are interested in a particular subject area.\n\nAutomatically Collected Information\nInformation about your computer hardware and software may be automatically collected by\nWhere to Wheel. This information can include: your IP address, browser type, domain names,\naccess times and referring website addresses. This information is used for the operation of the\nservice, to maintain quality of the service, and to provide general statistics regarding use of the\nWhere to Wheel website.\n\nUse of Cookies\nThe Where to Wheel website may use &quot;cookies&quot; to help you personalize your online experience.\nA cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be\nused to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you,\nand can only be read by a web server in the domain that issued the cookie to you.\n\nOne of the primary purposes of cookies is to provide a convenience feature to save you time.\nThe purpose of a cookie is to tell the Web server that you have returned to a specific page. For\nexample, if you personalize Where to Wheel pages, or register with Where to Wheel site or\nservices, a cookie helps Where to Wheel to recall your specific information on subsequent visits.\nThis simplifies the process of recording your personal information, such as billing addresses,\nshipping addresses, and so on. When you return to the same Where to Wheel website, the\ninformation you previously provided can be retrieved, so you can easily use the Where to Wheel\nfeatures that you customized.\n\nYou have the ability to accept or decline cookies. Most Web browsers automatically accept\ncookies, but you can usually modify your browser setting to decline cookies if you prefer. If you\nchoose to decline cookies, you may not be able to fully experience the interactive features of the\nWhere to Wheel services or websites you visit.\n\nLinks\nThis website contains links to other sites. Please be aware that we are not responsible for the\ncontent or privacy practices of such other sites. We encourage our users to be aware when they\nleave our site and to read the privacy statements of any other site that collects personally\nidentifiable information.\n\nSecurity of your Personal Information\nWhere to Wheel secures your personal information from unauthorized access, use, or disclosure.\nWhere to Wheel uses the following methods for this purpose:\n\n - SSL Protocol\n\nWhen personal information (such as a credit card number) is transmitted to other websites, it is\nprotected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.\n\nWe strive to take appropriate security measures to protect against unauthorized access to or\nalteration of your personal information. Unfortunately, no data transmission over the Internet or\nany wireless network can be guaranteed to be 100% secure. As a result, while we strive to\nprotect your personal information, you acknowledge that: (a) there are security and privacy\nlimitations inherent to the Internet which are beyond our control; and (b) security, integrity, and\nprivacy of any and all information and data exchanged between you and us through this Site\ncannot be guaranteed.\n\nChildren Under Thirteen\nWhere to Wheel does not knowingly collect personally identifiable information from children\n\nunder the age of thirteen. If you are under the age of thirteen, you must ask your parent or\nguardian for permission to use this website.\n\nOpt-Out &amp; Unsubscribe from Third Party Communications\nWe respect your privacy and give you an opportunity to opt-out of receiving announcements of\ncertain information. Users may opt-out of receiving any or all communications from third-party\npartners of Where to Wheel by contacting us here:\n Web page: _________________\n Email: opt-out@wheretowhee.us\n Phone: 7743605337   E-mail Communications From time to time, Where to Wheel may contact\nyou via email for the purpose of providing announcements, promotional offers, alerts,\nconfirmations, surveys, and/or other general communication. In order to improve our Services,\nwe may receive a notification when you open an email from Where to Wheel or click on a link\ntherein.   If you would like to stop receiving marketing or promotional communications via email\nfrom Where to Wheel, you may opt out of such communications by Customers may unsubscribe\nfrom emails by &quot;replying STOP&quot; or &quot;clicking on the UNSUBSCRIBE button.&quot;.   External Data\nStorage Sites We may store your data on servers provided by third party hosting vendors with\nwhom we have contracted.   Changes to this Statement Where to Wheel reserves the right to\nchange this Privacy Policy from time to time. We will notify you about significant changes in the\nway we treat personal information by sending a notice to the primary email address specified in\nyour account, by placing a prominent notice on our site, and/or by updating any privacy\ninformation on this page. Your continued use of the Site and/or Services available through this\nSite after such modifications will constitute your: (a) acknowledgment of the modified Privacy\nPolicy; and (b) agreement to abide and be bound by that Policy.   Contact Information Where to\nWheel welcomes your questions or comments regarding this Statement of Privacy. If you believe\nthat Where to Wheel has not adhered to this Statement, please contact Where to Wheel at:\nWhere To Wheel, Inc. 193 Grove st. Suite 104 Braintree, Massachusetts 02184   Email\nAddress: info@wheretowheel.us   Telephone number: 617-682-9751   Effective as of October\n28, 2017"; ObjectID = "eiv-UD-hWl"; */
+"eiv-UD-hWl.text" = "Protecting your private information is our priority. This Statement of Privacy applies\nto www.wheretowheel.us and Where To Wheel, Inc. and governs data collection and usage. For\nthe purposes of this Privacy Policy, unless otherwise noted, all references to Where To Wheel,\nInc. include www.wheretowheel.us and Where to Wheel. The Where to Wheel website is a news\nand information site. By using the Where to Wheel website, you consent to the data practices\ndescribed in this statement.\n\nCollection of your Personal Information\nIn order to better provide you with products and services offered on our Site, Where to Wheel\nmay collect personally identifiable information, such as your:\n\n - First and Last Name\n - E-mail Address\n - Phone Number\n\nWhere to Wheel may also collect anonymous demographic information, which is not unique to\nyou, such as your:\n\n - Gender\n - Mobility access\n\nWe do not collect any personal information about you unless you voluntarily provide it to us.\nHowever, you may be required to provide certain personal information to us when you elect to\nuse certain products or services available on the Site. These may include: (a) registering for an\naccount on our Site; (b) entering a sweepstakes or contest sponsored by us or one of our\npartners; (c) signing up for special offers from selected third parties; (d) sending us an email\nmessage; (e) submitting your credit card or other payment information when ordering an\npurchasing products and services on our Site. To wit, we will use your information for, but not\nlimited to, communicating with you in relation to services and/or products you have requested\nfrom us. We also may gather additional personal or non-personal information in the future.\n\nUse of your Personal Information\nWhere to Wheel collects and uses your personal information to operate its website(s) and deliver\nthe services you have requested.\n\nWhere to Wheel may also use your personally identifiable information to inform you of other\nproducts or services available from Where to Wheel and its affiliates.\n\nSharing Information with Third Parties\nWhere to Wheel does not sell, rent or lease its customer lists to third parties.\n\nWhere to Wheel may, from time to time, contact you on behalf of external business partners\nabout a particular offering that may be of interest to you. In those cases, your unique personally\nidentifiable information (e-mail, name, address, telephone number) is transferred to the third\nparty. Where to Wheel may share data with trusted partners to help perform statistical analysis,\nsend you email or postal mail, provide customer support, or arrange for deliveries. All such third\nparties are prohibited from using your personal information except to provide these services to\nWhere to Wheel, and they are required to maintain the confidentiality of your information.\n\nWhere to Wheel may disclose your personal information, without notice, if required to do so by\nlaw or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law\nor comply with legal process served on Where to Wheel or the site; (b) protect and defend the\nrights or property of Where to Wheel; and/or (c) act under exigent circumstances to protect the\npersonal safety of users of Where to Wheel, or the public.\n\nTracking User Behavior\nWhere to Wheel may keep track of the websites and pages our users visit within Where to\n\nWheel, in order to determine what Where to Wheel services are the most popular. This data is\nused to deliver customized content and advertising within Where to Wheel to customers whose\nbehavior indicates that they are interested in a particular subject area.\n\nAutomatically Collected Information\nInformation about your computer hardware and software may be automatically collected by\nWhere to Wheel. This information can include: your IP address, browser type, domain names,\naccess times and referring website addresses. This information is used for the operation of the\nservice, to maintain quality of the service, and to provide general statistics regarding use of the\nWhere to Wheel website.\n\nUse of Cookies\nThe Where to Wheel website may use &quot;cookies&quot; to help you personalize your online experience.\nA cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be\nused to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you,\nand can only be read by a web server in the domain that issued the cookie to you.\n\nOne of the primary purposes of cookies is to provide a convenience feature to save you time.\nThe purpose of a cookie is to tell the Web server that you have returned to a specific page. For\nexample, if you personalize Where to Wheel pages, or register with Where to Wheel site or\nservices, a cookie helps Where to Wheel to recall your specific information on subsequent visits.\nThis simplifies the process of recording your personal information, such as billing addresses,\nshipping addresses, and so on. When you return to the same Where to Wheel website, the\ninformation you previously provided can be retrieved, so you can easily use the Where to Wheel\nfeatures that you customized.\n\nYou have the ability to accept or decline cookies. Most Web browsers automatically accept\ncookies, but you can usually modify your browser setting to decline cookies if you prefer. If you\nchoose to decline cookies, you may not be able to fully experience the interactive features of the\nWhere to Wheel services or websites you visit.\n\nLinks\nThis website contains links to other sites. Please be aware that we are not responsible for the\ncontent or privacy practices of such other sites. We encourage our users to be aware when they\nleave our site and to read the privacy statements of any other site that collects personally\nidentifiable information.\n\nSecurity of your Personal Information\nWhere to Wheel secures your personal information from unauthorized access, use, or disclosure.\nWhere to Wheel uses the following methods for this purpose:\n\n - SSL Protocol\n\nWhen personal information (such as a credit card number) is transmitted to other websites, it is\nprotected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol.\n\nWe strive to take appropriate security measures to protect against unauthorized access to or\nalteration of your personal information. Unfortunately, no data transmission over the Internet or\nany wireless network can be guaranteed to be 100% secure. As a result, while we strive to\nprotect your personal information, you acknowledge that: (a) there are security and privacy\nlimitations inherent to the Internet which are beyond our control; and (b) security, integrity, and\nprivacy of any and all information and data exchanged between you and us through this Site\ncannot be guaranteed.\n\nChildren Under Thirteen\nWhere to Wheel does not knowingly collect personally identifiable information from children\n\nunder the age of thirteen. If you are under the age of thirteen, you must ask your parent or\nguardian for permission to use this website.\n\nOpt-Out &amp; Unsubscribe from Third Party Communications\nWe respect your privacy and give you an opportunity to opt-out of receiving announcements of\ncertain information. Users may opt-out of receiving any or all communications from third-party\npartners of Where to Wheel by contacting us here:\n Web page: _________________\n Email: opt-out@wheretowhee.us\n Phone: 7743605337   E-mail Communications From time to time, Where to Wheel may contact\nyou via email for the purpose of providing announcements, promotional offers, alerts,\nconfirmations, surveys, and/or other general communication. In order to improve our Services,\nwe may receive a notification when you open an email from Where to Wheel or click on a link\ntherein.   If you would like to stop receiving marketing or promotional communications via email\nfrom Where to Wheel, you may opt out of such communications by Customers may unsubscribe\nfrom emails by &quot;replying STOP&quot; or &quot;clicking on the UNSUBSCRIBE button.&quot;.   External Data\nStorage Sites We may store your data on servers provided by third party hosting vendors with\nwhom we have contracted.   Changes to this Statement Where to Wheel reserves the right to\nchange this Privacy Policy from time to time. We will notify you about significant changes in the\nway we treat personal information by sending a notice to the primary email address specified in\nyour account, by placing a prominent notice on our site, and/or by updating any privacy\ninformation on this page. Your continued use of the Site and/or Services available through this\nSite after such modifications will constitute your: (a) acknowledgment of the modified Privacy\nPolicy; and (b) agreement to abide and be bound by that Policy.   Contact Information Where to\nWheel welcomes your questions or comments regarding this Statement of Privacy. If you believe\nthat Where to Wheel has not adhered to this Statement, please contact Where to Wheel at:\nWhere To Wheel, Inc. 193 Grove st. Suite 104 Braintree, Massachusetts 02184   Email\nAddress: info@wheretowheel.us   Telephone number: 617-682-9751   Effective as of October\n28, 2017";
+
+/* Class = "UILabel"; text = "Baby walker"; ObjectID = "f9a-47-Djg"; */
+"f9a-47-Djg.text" = "Baby walker";
+
+/* Class = "UILabel"; text = "Time of visit: "; ObjectID = "fIa-Ze-zgy"; */
+"fIa-Ze-zgy.text" = "Time of visit: ";
+
+/* Class = "UILabel"; text = "Spacious"; ObjectID = "g3a-z4-Em8"; */
+"g3a-z4-Em8.text" = "Spacious";
+
+/* Class = "UITextField"; placeholder = "Where would you like to Wheel?"; ObjectID = "gSk-ik-lw0"; */
+"gSk-ik-lw0.placeholder" = "Where would you like to Wheel?";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gcd-Mw-adg"; */
+"gcd-Mw-adg.text" = "Label";
+
+/* Class = "UILabel"; text = "Fully accessible"; ObjectID = "gpm-sH-zF8"; */
+"gpm-sH-zF8.text" = "Fully accessible";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "hIB-8U-XYz"; */
+"hIB-8U-XYz.normalTitle" = "Submit";
+
+/* Class = "UITextField"; placeholder = "Please Enter OTP"; ObjectID = "hTs-Rp-P3p"; */
+"hTs-Rp-P3p.placeholder" = "Please Enter OTP";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "i9s-xC-FPD"; */
+"i9s-xC-FPD.text" = "None";
+
+/* Class = "UILabel"; text = "none"; ObjectID = "iMt-h0-oCo"; */
+"iMt-h0-oCo.text" = "none";
+
+/* Class = "UILabel"; text = "8. Type of mobility user?"; ObjectID = "iob-uD-5He"; */
+"iob-uD-5He.text" = "8. Type of mobility user?";
+
+/* Class = "UILabel"; text = "Opens out"; ObjectID = "jdl-L6-MPR"; */
+"jdl-L6-MPR.text" = "Opens out";
+
+/* Class = "UILabel"; text = "Designated area"; ObjectID = "jxx-ne-U5K"; */
+"jxx-ne-U5K.text" = "Designated area";
+
+/* Class = "UILabel"; text = "7.1 Speciousness of the elevator?"; ObjectID = "kDu-SW-Te0"; */
+"kDu-SW-Te0.text" = "7.1 Speciousness of the elevator?";
+
+/* Class = "UILabel"; text = "Outside"; ObjectID = "kIj-yh-N6w"; */
+"kIj-yh-N6w.text" = "Outside";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "kLQ-07-4Me"; */
+"kLQ-07-4Me.text" = "None";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "kSG-cW-zDF"; */
+"kSG-cW-zDF.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Easy"; ObjectID = "klh-0q-pa1"; */
+"klh-0q-pa1.text" = "Easy";
+
+/* Class = "UITextField"; placeholder = "Message"; ObjectID = "l0s-m7-1UR"; */
+"l0s-m7-1UR.placeholder" = "Message";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "l2K-Pp-wMC"; */
+"l2K-Pp-wMC.text" = "Title";
+
+/* Class = "UILabel"; text = "None"; ObjectID = "lK3-bQ-2q2"; */
+"lK3-bQ-2q2.text" = "None";
+
+/* Class = "UILabel"; text = "Main View Controller"; ObjectID = "m3P-eU-Bkj"; */
+"m3P-eU-Bkj.text" = "Main View Controller";
+
+/* Class = "UILabel"; text = "Non Menu View Controller"; ObjectID = "mhG-fm-OgT"; */
+"mhG-fm-OgT.text" = "Non Menu View Controller";
+
+/* Class = "UILabel"; text = "3. Rate the venue spaciousness"; ObjectID = "miK-e4-UFH"; */
+"miK-e4-UFH.text" = "3. Rate the venue spaciousness";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "n10-RS-s4d"; */
+"n10-RS-s4d.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nSH-DN-COn"; */
+"nSH-DN-COn.text" = "Label";
+
+/* Class = "UILabel"; text = "Cafes"; ObjectID = "nSL-WI-UZd"; */
+"nSL-WI-UZd.text" = "Cafes";
+
+/* Class = "UILabel"; text = "Booking History"; ObjectID = "o3R-Uo-SCw"; */
+"o3R-Uo-SCw.text" = "Booking History";
+
+/* Class = "UITabBarItem"; title = "Non Menu"; ObjectID = "oSK-5W-d3N"; */
+"oSK-5W-d3N.title" = "Non Menu";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "oeM-8g-pZj"; */
+"oeM-8g-pZj.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "6.1 How is the steepness of the ramp?"; ObjectID = "p2G-6H-kZ2"; */
+"p2G-6H-kZ2.text" = "6.1 How is the steepness of the ramp?";
+
+/* Class = "UILabel"; text = "Login with"; ObjectID = "pFx-vU-6Au"; */
+"pFx-vU-6Au.text" = "Login with";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "ppw-hG-GcO"; */
+"ppw-hG-GcO.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "psP-g1-Gq4"; */
+"psP-g1-Gq4.text" = "Front";
+
+/* Class = "UILabel"; text = "2. Rate the HC entrance"; ObjectID = "qA3-eb-sX2"; */
+"qA3-eb-sX2.text" = "2. Rate the HC entrance";
+
+/* Class = "UITextField"; placeholder = "Plase Enter Your Name"; ObjectID = "qEC-Ua-6TS"; */
+"qEC-Ua-6TS.placeholder" = "Plase Enter Your Name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qkB-Fo-nAp"; */
+"qkB-Fo-nAp.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qof-th-aE8"; */
+"qof-th-aE8.text" = "Label";
+
+/* Class = "UILabel"; text = "My Details"; ObjectID = "qow-VH-7aD"; */
+"qow-VH-7aD.text" = "My Details";
+
+/* Class = "UILabel"; text = "5.3 Amenities"; ObjectID = "qza-pG-Mxn"; */
+"qza-pG-Mxn.text" = "5.3 Amenities";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "qzb-rO-jtj"; */
+"qzb-rO-jtj.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Second View Controller"; ObjectID = "rCI-Uc-6EE"; */
+"rCI-Uc-6EE.text" = "Second View Controller";
+
+/* Class = "UILabel"; text = "Where to Wheel"; ObjectID = "sKl-fs-R3Q"; */
+"sKl-fs-R3Q.text" = "Where to Wheel";
+
+/* Class = "UILabel"; text = "Too steep"; ObjectID = "sRc-Uy-ChC"; */
+"sRc-Uy-ChC.text" = "Too steep";
+
+/* Class = "UILabel"; text = "No door"; ObjectID = "sSR-QZ-dbg"; */
+"sSR-QZ-dbg.text" = "No door";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "taj-YI-4Lm"; */
+"taj-YI-4Lm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "tfG-FA-O2l"; */
+"tfG-FA-O2l.normalTitle" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uGf-sc-D4X"; */
+"uGf-sc-D4X.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "uQi-HQ-RyL"; */
+"uQi-HQ-RyL.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Welcome to"; ObjectID = "uye-J4-oVZ"; */
+"uye-J4-oVZ.text" = "Welcome to";
+
+/* Class = "UILabel"; text = "Spacious"; ObjectID = "v0J-BY-Abe"; */
+"v0J-BY-Abe.text" = "Spacious";
+
+/* Class = "UILabel"; text = "Average"; ObjectID = "vGe-BA-hDI"; */
+"vGe-BA-hDI.text" = "Average";
+
+/* Class = "UILabel"; text = "1. Rate the HC parking"; ObjectID = "vYq-cH-TkV"; */
+"vYq-cH-TkV.text" = "1. Rate the HC parking";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "w6T-9O-qxs"; */
+"w6T-9O-qxs.text" = "Please wait...";
+
+/* Class = "UIButton"; normalTitle = "Present View Controller"; ObjectID = "wAq-O1-2F7"; */
+"wAq-O1-2F7.normalTitle" = "Present View Controller";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "wLu-y2-Tjg"; */
+"wLu-y2-Tjg.normalTitle" = "Save";
+
+/* Class = "UILabel"; text = "3.1 How is the venue spaciousness?"; ObjectID = "wl2-mp-NcB"; */
+"wl2-mp-NcB.text" = "3.1 How is the venue spaciousness?";
+
+/* Class = "UILabel"; text = "6. Rate the ramp"; ObjectID = "wo8-rC-zDd"; */
+"wo8-rC-zDd.text" = "6. Rate the ramp";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "xKg-sd-Zpr"; */
+"xKg-sd-Zpr.normalTitle" = "Sign Up";
+
+/* Class = "UILabel"; text = "Date of visit: "; ObjectID = "xeW-b0-ku8"; */
+"xeW-b0-ku8.text" = "Date of visit: ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "xr5-lj-8t6"; */
+"xr5-lj-8t6.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Didn't check"; ObjectID = "xxW-CP-5P3"; */
+"xxW-CP-5P3.text" = "Didn't check";
+
+/* Class = "UIButton"; normalTitle = "User Tab View"; ObjectID = "yVP-AW-is9"; */
+"yVP-AW-is9.normalTitle" = "User Tab View";
+
+/* Class = "UIButton"; normalTitle = "Change Password"; ObjectID = "yWd-tW-Kt3"; */
+"yWd-tW-Kt3.normalTitle" = "Change Password";
+
+/* Class = "UILabel"; text = "Adequate"; ObjectID = "ytQ-vV-6ql"; */
+"ytQ-vV-6ql.text" = "Adequate";
+
+/* Class = "UILabel"; text = "Please wait..."; ObjectID = "zgU-Vk-lVI"; */
+"zgU-Vk-lVI.text" = "Please wait...";
+
+/* Class = "UILabel"; text = "Too small"; ObjectID = "zqY-0q-ZLV"; */
+"zqY-0q-ZLV.text" = "Too small";
+
+/* Class = "UILabel"; text = "Right of the building"; ObjectID = "zqm-XK-NkN"; */
+"zqm-XK-NkN.text" = "Right of the building";

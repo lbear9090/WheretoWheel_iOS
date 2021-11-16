@@ -1,0 +1,11 @@
+framework module AEAccordion {
+  umbrella header "AEAccordion.h"
+
+  export *
+  module * { export * }
+}
+
+module AEAccordion.Swift {
+    header "AEAccordion-Swift.h"
+    requires objc
+}

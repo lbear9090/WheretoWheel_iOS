@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097.3" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="shareEighthCell" rowHeight="124" id="KGk-i7-Jjw" customClass="shareEighthCell" customModule="WheretoWheel" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="124"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="124"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Share this list with" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pUE-jb-Wdc">
+                        <rect key="frame" x="0.0" y="6" width="320" height="25"/>
+                        <constraints>
+                            <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="320" id="AZ7-2L-FL9"/>
+                            <constraint firstAttribute="height" constant="25" id="R3l-ha-J8o"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ZVT-Sz-QTY">
+                        <rect key="frame" x="16" y="55" width="53" height="53"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="53" id="5CP-Qs-Ybc"/>
+                            <constraint firstAttribute="width" constant="53" id="ceK-9K-Jur"/>
+                        </constraints>
+                        <state key="normal" title="Button" image="fb"/>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ffc-cr-lSz">
+                        <rect key="frame" x="89" y="55" width="53" height="53"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="53" id="aZF-NA-Sze"/>
+                            <constraint firstAttribute="width" constant="53" id="pSA-ZO-5qR"/>
+                        </constraints>
+                        <state key="normal" image="twitter"/>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Md2-ac-Bve">
+                        <rect key="frame" x="159.5" y="55" width="1" height="53"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="53" id="Pey-Ve-d5J"/>
+                            <constraint firstAttribute="width" constant="1" id="pOd-cu-Q75"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1pZ-fM-VVN">
+                        <rect key="frame" x="166" y="55" width="53" height="53"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="53" id="Wul-7b-OFU"/>
+                            <constraint firstAttribute="width" constant="53" id="dnQ-ld-nNa"/>
+                        </constraints>
+                        <state key="normal" image="insta"/>
+                    </button>
+                    <button hidden="YES" opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wC5-aI-Ze2">
+                        <rect key="frame" x="176" y="55" width="53" height="53"/>
+                        <autoresizingMask key="autoresizingMask" flexibleMinX="YES" flexibleMaxX="YES" flexibleMinY="YES" flexibleMaxY="YES"/>
+                        <state key="normal" image="google-plus"/>
+                    </button>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="VZ0-Pp-hhQ">
+                        <rect key="frame" x="251" y="55" width="53" height="53"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="53" id="2A9-LK-X9n"/>
+                            <constraint firstAttribute="height" constant="53" id="srF-Q6-cVw"/>
+                        </constraints>
+                        <state key="normal" image="linkedin"/>
+                    </button>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="RNr-bi-huI">
+                        <rect key="frame" x="0.0" y="117" width="320" height="2"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
+                        <color key="backgroundColor" red="0.75406885150000003" green="0.75408679249999999" blue="0.75407713649999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Md2-ac-Bve" firstAttribute="centerX" secondItem="H2p-sc-9uM" secondAttribute="centerX" id="0vN-Hu-x3x"/>
+                    <constraint firstItem="1pZ-fM-VVN" firstAttribute="top" secondItem="pUE-jb-Wdc" secondAttribute="bottom" constant="24" id="7kl-GW-eF5"/>
+                    <constraint firstItem="VZ0-Pp-hhQ" firstAttribute="leading" secondItem="1pZ-fM-VVN" secondAttribute="trailing" constant="32" id="HaW-Dx-q1X"/>
+                    <constraint firstItem="pUE-jb-Wdc" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="6" id="Ih1-Yi-tpy"/>
+                    <constraint firstItem="pUE-jb-Wdc" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="Pkv-Ys-uYZ"/>
+                    <constraint firstItem="Md2-ac-Bve" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="55" id="R7E-ct-ljB"/>
+                    <constraint firstItem="ZVT-Sz-QTY" firstAttribute="top" secondItem="pUE-jb-Wdc" secondAttribute="bottom" constant="24" id="RHR-hC-ktZ"/>
+                    <constraint firstItem="1pZ-fM-VVN" firstAttribute="leading" secondItem="Md2-ac-Bve" secondAttribute="trailing" constant="5.5" id="TKn-jI-OPM"/>
+                    <constraint firstItem="VZ0-Pp-hhQ" firstAttribute="top" secondItem="pUE-jb-Wdc" secondAttribute="bottom" constant="24" id="U5C-MU-v8V"/>
+                    <constraint firstItem="ffc-cr-lSz" firstAttribute="leading" secondItem="ZVT-Sz-QTY" secondAttribute="trailing" constant="20" id="Yd8-NF-auk"/>
+                    <constraint firstAttribute="trailing" secondItem="pUE-jb-Wdc" secondAttribute="trailing" id="kqJ-JN-sSZ"/>
+                    <constraint firstItem="Md2-ac-Bve" firstAttribute="leading" secondItem="ffc-cr-lSz" secondAttribute="trailing" constant="17.5" id="pDx-nX-lWw"/>
+                    <constraint firstItem="ffc-cr-lSz" firstAttribute="top" secondItem="pUE-jb-Wdc" secondAttribute="bottom" constant="24" id="to2-mT-I4f"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="btnGoogle" destination="wC5-aI-Ze2" id="FAh-oe-nhX"/>
+                <outlet property="btnInsta" destination="1pZ-fM-VVN" id="Irr-eG-5AJ"/>
+                <outlet property="btnLinkdin" destination="VZ0-Pp-hhQ" id="HVg-WA-w0k"/>
+                <outlet property="btnTwetter" destination="ffc-cr-lSz" id="ETS-eS-TvX"/>
+                <outlet property="btnfb" destination="ZVT-Sz-QTY" id="oCG-Ee-nSV"/>
+            </connections>
+            <point key="canvasLocation" x="131.8840579710145" y="152.67857142857142"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="fb" width="512" height="512"/>
+        <image name="google-plus" width="512" height="512"/>
+        <image name="insta" width="400" height="400"/>
+        <image name="linkedin" width="512" height="512"/>
+        <image name="twitter" width="512" height="512"/>
+    </resources>
+</document>
