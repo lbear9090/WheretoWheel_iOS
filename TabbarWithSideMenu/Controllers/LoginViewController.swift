@@ -4,11 +4,15 @@ import Firebase
 import GoogleSignIn
 import Alamofire
 import Sentry
+import AuthenticationServices
+import CryptoKit
 
 class LoginViewController: UIViewController,GIDSignInDelegate {
     
+
+    fileprivate var currentNonce: String?
     
-    @IBOutlet weak var viewFB: UIView!
+    @IBOutlet weak var viewApple: UIView!
     
     @IBOutlet weak var viewGoogle: UIView!
     @IBOutlet weak var lblWhereToWheel: UILabel!
@@ -48,7 +52,7 @@ class LoginViewController: UIViewController,GIDSignInDelegate {
         setPadding(textfied: txtEmail)
         setPadding(textfied: txtPass)
         setToolBar()
-        
+        setUpSignInAppleButton()
     }
     
     func setPadding(textfied : UITextField){
@@ -58,6 +62,15 @@ class LoginViewController: UIViewController,GIDSignInDelegate {
         textfied.leftView = paddingView
         textfied.leftViewMode = UITextField.ViewMode.always
         
+    }
+    
+    func setUpSignInAppleButton() {
+      let authorizationButton = ASAuthorizationAppleIDButton()
+      authorizationButton.addTarget(self, action: #selector(onClickAppleButton), for: .touchUpInside)
+//      authorizationButton.cornerRadius = 10
+      //Add button on some view or stack
+        authorizationButton.frame = CGRect(x: 0, y: 0, width: viewApple.frame.size.width, height: viewApple.frame.size.height)
+        viewApple.addSubview(authorizationButton)
     }
     
     func loadLoader(){
@@ -261,11 +274,11 @@ class LoginViewController: UIViewController,GIDSignInDelegate {
         btnCreateAccount.layer.cornerRadius = btnCreateAccount.frame.size.height/2
         
         
-        viewFB.layer.cornerRadius = viewFB.frame.size.width/2
-        viewGoogle.layer.cornerRadius = viewFB.frame.size.width/2
+//        viewApple.layer.cornerRadius = viewApple.frame.size.width/2
+        viewGoogle.layer.cornerRadius = viewApple.frame.size.width/2
         
-        viewFB.layer.borderColor = UIColor.blue.cgColor
-        viewFB.layer.borderWidth = 1.0
+//        viewApple.layer.borderColor = UIColor.blue.cgColor
+//        viewApple.layer.borderWidth = 1.0
         
         viewGoogle.layer.borderColor = UIColor.blue.cgColor
         viewGoogle.layer.borderWidth = 1.0
@@ -283,6 +296,19 @@ class LoginViewController: UIViewController,GIDSignInDelegate {
         loadLoader()
         simpleLoginApi()
         
+    }
+    
+    @objc func onClickAppleButton() {
+        let nonce = randomNonceString()
+          currentNonce = nonce
+          let appleIDProvider = ASAuthorizationAppleIDProvider()
+          let request = appleIDProvider.createRequest()
+          request.requestedScopes = [.fullName, .email]
+          request.nonce = sha256(nonce)
+
+          let authorizationController = ASAuthorizationController(authorizationRequests: [request])
+          authorizationController.delegate = self
+          authorizationController.performRequests()
     }
     
     @IBAction func onClickFBButton(_ sender: Any) {
@@ -428,5 +454,132 @@ extension UITextField{
     }
 }
 
+extension LoginViewController : ASAuthorizationControllerDelegate{
+    func authorizationController(controller: ASAuthorizationController, didCompleteWithAuthorization authorization: ASAuthorization) {
+        if let appleIDCredential = authorization.credential as? ASAuthorizationAppleIDCredential {
+            guard let nonce = currentNonce else {
+                fatalError("Invalid state: A login callback was received, but no login request was sent.")
+            }
+            guard let appleIDToken = appleIDCredential.identityToken else {
+                print("Unable to fetch identity token")
+                return
+            }
+            guard let idTokenString = String(data: appleIDToken, encoding: .utf8) else {
+                print("Unable to serialize token string from data: \(appleIDToken.debugDescription)")
+                return
+            }
+            // Initialize a Firebase credential.
+            let credential = OAuthProvider.credential(withProviderID: "apple.com",
+                                                      idToken: idTokenString,
+                                                      rawNonce: nonce)
+            // Sign in with Firebase.
+            Auth.auth().signIn(with: credential) { (authResult, error) in
+                if let error = error {
+                    // Error. If error.code == .MissingOrInvalidNonce, make sure
+                    // you're sending the SHA256-hashed nonce as a hex string with
+                    // your request to Apple.
+                    print(error.localizedDescription)
+                    
+                    let alertController = UIAlertController(title: "Login Error", message: error.localizedDescription, preferredStyle: .alert)
+                    let okayAction = UIAlertAction(title: "OK", style: .cancel, handler: nil)
+                    alertController.addAction(okayAction)
+                    self.present(alertController, animated: true, completion: nil)
+                    
+                    return
+                }
+                // User is signed in to Firebase with Apple.
+                
+                if let currentUser = Auth.auth().currentUser {
+                    
+                    self.loadLoader()
+                    let email = currentUser.email
+                    let id = currentUser.uid
+                    let name = currentUser.displayName
+                    let url = "https://wheretowheel.us/api/user/user_login"
+                    let parameters: Parameters = ["email": email!, "fb_id": id, "user_type": 2, "user_name": name!]
 
+                        AF.request(url, method: .post, parameters: parameters).responseJSON { response in
+                        
+                        if response.value != nil {
+                            
+                            let responseData = response.value as! NSDictionary
+                            
+                            let res = responseData.mutableCopy() as! NSMutableDictionary
+                            let resDic = self.removeNullFromDict(dict: res)
+                            
+                            let status = resDic.value(forKey: "status") as! Int
+                            let imageProfile : URL = currentUser.photoURL!
+                            print(imageProfile as Any)
+                            if(status == 1){
+                                
+                                UserDefaults.standard.set(currentUser.displayName, forKey: "username")
+                                UserDefaults.standard.set(resDic.value(forKey: "user_id"), forKey: "userid")
+                                UserDefaults.standard.set("\(imageProfile)", forKey: "loginuserimage")
+                                self.spinner.endRefreshing()
+                                self.viewSpinner.isHidden = true
+                                UserDefaults.standard.set(true, forKey: "isLogin")
+                                let appdelegate = UIApplication.shared.delegate as? AppDelegate
+                                appdelegate?.makeRootViewController()
+                                
+                            }
+                        
+                        }
+                    }
+                    
+                }
+            }
+        }
+    }
+    
+    func authorizationController(controller: ASAuthorizationController, didCompleteWithError error: Error) {
+        // Handle error.
+        print("Sign in with Apple errored: \(error)")
+    }
+}
+
+extension LoginViewController {
+    private func randomNonceString(length: Int = 32) -> String {
+        precondition(length > 0)
+        let charset: [Character] =
+        Array("0123456789ABCDEFGHIJKLMNOPQRSTUVXYZabcdefghijklmnopqrstuvwxyz-._")
+        var result = ""
+        var remainingLength = length
+        
+        while remainingLength > 0 {
+            let randoms: [UInt8] = (0 ..< 16).map { _ in
+                var random: UInt8 = 0
+                let errorCode = SecRandomCopyBytes(kSecRandomDefault, 1, &random)
+                if errorCode != errSecSuccess {
+                    fatalError(
+                        "Unable to generate nonce. SecRandomCopyBytes failed with OSStatus \(errorCode)"
+                    )
+                }
+                return random
+            }
+            
+            randoms.forEach { random in
+                if remainingLength == 0 {
+                    return
+                }
+                
+                if random < charset.count {
+                    result.append(charset[Int(random)])
+                    remainingLength -= 1
+                }
+            }
+        }
+        
+        return result
+    }
+    
+    private func sha256(_ input: String) -> String {
+        let inputData = Data(input.utf8)
+        let hashedData = SHA256.hash(data: inputData)
+        let hashString = hashedData.compactMap {
+            String(format: "%02x", $0)
+        }.joined()
+        
+        return hashString
+    }
+}
 

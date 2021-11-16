@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="18122" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="rmu-gO-8JG">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="rmu-gO-8JG">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
         <deployment identifier="iOS"/>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="18093"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="System colors in document resources" minToolsVersion="11.0"/>
         <capability name="collection view cell content view" minToolsVersion="11.0"/>
@@ -62,14 +62,14 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Facebook" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Qd-gQ-TkK">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Apple" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="6Qd-gQ-TkK">
                                 <rect key="frame" x="9" y="199" width="80" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="80" id="QcZ-mK-pxo"/>
                                     <constraint firstAttribute="height" constant="21" id="VVq-an-kzn"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" red="0.1058823529" green="0.3921568627" blue="0.90588235289999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <color key="textColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Login with" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="X4T-tm-AHc">
@@ -169,10 +169,10 @@
                             <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cPw-2Y-s8Y">
                                 <rect key="frame" x="99" y="161" width="85" height="85"/>
                                 <subviews>
-                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fb_icon" translatesAutoresizingMaskIntoConstraints="NO" id="WdM-ta-Yex">
+                                    <imageView hidden="YES" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="fb_icon" translatesAutoresizingMaskIntoConstraints="NO" id="WdM-ta-Yex">
                                         <rect key="frame" x="0.0" y="0.0" width="85" height="85"/>
                                     </imageView>
-                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z6e-eT-Na8">
+                                    <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z6e-eT-Na8">
                                         <rect key="frame" x="0.0" y="0.0" width="85" height="85"/>
                                         <connections>
                                             <action selector="onClickFBButton:" destination="2ih-iS-eWr" eventType="touchUpInside" id="KHZ-ph-qGh"/>
@@ -323,7 +323,7 @@
                         <outlet property="lblWhereToWheel" destination="aei-TJ-HBn" id="Ohn-Kj-g8a"/>
                         <outlet property="txtEmail" destination="bbB-vm-nbo" id="Rmn-uD-m7W"/>
                         <outlet property="txtPass" destination="oeM-8g-pZj" id="SPi-Ba-goK"/>
-                        <outlet property="viewFB" destination="cPw-2Y-s8Y" id="pWb-Hr-rpV"/>
+                        <outlet property="viewApple" destination="cPw-2Y-s8Y" id="pWb-Hr-rpV"/>
                         <outlet property="viewGoogle" destination="YiA-PZ-Mh2" id="Eeg-cr-wwH"/>
                         <outlet property="viewPleaseWait" destination="GT3-ob-3nb" id="Gv7-1f-v4H"/>
                         <outlet property="viewSpinner" destination="fVX-N0-30t" id="MtU-UO-evM"/>
@@ -949,7 +949,7 @@ Confidence!</string>
                                                 <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                 <prototypes>
                                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="kXo-h9-nTi">
-                                                        <rect key="frame" x="0.0" y="24.5" width="353" height="44"/>
+                                                        <rect key="frame" x="0.0" y="44.5" width="353" height="44"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="kXo-h9-nTi" id="Mz6-eG-JBM">
                                                             <rect key="frame" x="0.0" y="0.0" width="353" height="44"/>
@@ -970,7 +970,7 @@ Confidence!</string>
                                                         </tableViewCellContentView>
                                                     </tableViewCell>
                                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="labelCell" textLabel="l2K-Pp-wMC" style="IBUITableViewCellStyleDefault" id="40p-Gj-Cxe">
-                                                        <rect key="frame" x="0.0" y="68.5" width="353" height="44"/>
+                                                        <rect key="frame" x="0.0" y="88.5" width="353" height="44"/>
                                                         <autoresizingMask key="autoresizingMask"/>
                                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="40p-Gj-Cxe" id="I2a-aF-9Ol">
                                                             <rect key="frame" x="0.0" y="0.0" width="353" height="44"/>
@@ -1994,7 +1994,7 @@ Effective as of October 28, 2017</string>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="headerCell" id="dSK-Yo-hLm">
-                                        <rect key="frame" x="0.0" y="24.5" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="dSK-Yo-hLm" id="kNm-sY-7oT">
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -2312,7 +2312,7 @@ Effective as of October 28, 2017</string>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="searchMapDetail" id="wJv-j9-cMp">
-                                        <rect key="frame" x="0.0" y="24.5" width="375" height="44"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="375" height="44"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="wJv-j9-cMp" id="EFh-f7-8XP">
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
@@ -3810,7 +3810,7 @@ Effective as of October 28, 2017</string>
                                 </constraints>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="SearchCell" rowHeight="58" id="WuH-24-Oxy" customClass="SearchCell" customModule="WheretoWheel" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="24.5" width="331" height="58"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="331" height="58"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="WuH-24-Oxy" id="Hsn-WH-hED">
                                             <rect key="frame" x="0.0" y="0.0" width="331" height="58"/>
@@ -5860,7 +5860,7 @@ Effective as of October 28, 2017</string>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="addListSearchCell" rowHeight="80" id="Aa7-Hf-RqK" customClass="addListSearchCell" customModule="WheretoWheel" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="24.5" width="319" height="80"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="319" height="80"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="Aa7-Hf-RqK" id="yQp-7a-N8w">
                                             <rect key="frame" x="0.0" y="0.0" width="319" height="80"/>
@@ -6125,7 +6125,7 @@ Effective as of October 28, 2017</string>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <prototypes>
                                     <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" selectionStyle="blue" hidesAccessoryWhenEditing="NO" indentationLevel="1" indentationWidth="0.0" reuseIdentifier="cell" rowHeight="75" id="tGd-94-zoe" customClass="sidemenuCell" customModule="WheretoWheel" customModuleProvider="target">
-                                        <rect key="frame" x="0.0" y="24.5" width="375" height="75"/>
+                                        <rect key="frame" x="0.0" y="44.5" width="375" height="75"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="tGd-94-zoe" id="WHp-GX-VJp">
                                             <rect key="frame" x="0.0" y="0.0" width="375" height="75"/>
@@ -6718,7 +6718,7 @@ Effective as of October 28, 2017</string>
             <color red="1" green="0.23137254901960785" blue="0.18823529411764706" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemTealColor">
-            <color red="0.35294117647058826" green="0.78431372549019607" blue="0.98039215686274506" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.18823529411764706" green="0.69019607843137254" blue="0.7803921568627451" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
         <systemColor name="systemYellowColor">
             <color red="1" green="0.80000000000000004" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
