@@ -494,9 +494,15 @@ extension LoginViewController : ASAuthorizationControllerDelegate{
                     self.loadLoader()
                     let email = currentUser.email
                     let id = currentUser.uid
-                    let name = currentUser.displayName
+                    var name: String
+                    if currentUser.displayName != nil{
+                        name = currentUser.displayName!
+                    }else{
+                        name = currentUser.email!
+                    }
+                    
                     let url = "https://wheretowheel.us/api/user/user_login"
-                    let parameters: Parameters = ["email": email!, "fb_id": id, "user_type": 2, "user_name": name!]
+                    let parameters: Parameters = ["email": email!, "fb_id": id, "user_type": 2, "user_name": name]
 
                         AF.request(url, method: .post, parameters: parameters).responseJSON { response in
                         
@@ -508,13 +514,13 @@ extension LoginViewController : ASAuthorizationControllerDelegate{
                             let resDic = self.removeNullFromDict(dict: res)
                             
                             let status = resDic.value(forKey: "status") as! Int
-                            let imageProfile : URL = currentUser.photoURL!
-                            print(imageProfile as Any)
+//                            let imageProfile : URL = currentUser.photoURL!
+//                            print(imageProfile as Any)
                             if(status == 1){
                                 
                                 UserDefaults.standard.set(currentUser.displayName, forKey: "username")
                                 UserDefaults.standard.set(resDic.value(forKey: "user_id"), forKey: "userid")
-                                UserDefaults.standard.set("\(imageProfile)", forKey: "loginuserimage")
+//                                UserDefaults.standard.set("\(imageProfile)", forKey: "loginuserimage")
                                 self.spinner.endRefreshing()
                                 self.viewSpinner.isHidden = true
                                 UserDefaults.standard.set(true, forKey: "isLogin")
